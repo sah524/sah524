@@ -1,4 +1,4 @@
-# 👩‍💻 Sarah silva 
+# 👩‍💻 Sarah Silva 
 **`Desenvolvedorora Bank end | Front End`**
 
 Meu nome é Sarah Silva Gabriel, tenho 19 anos e sou natural de Brasília - DF. Atualmente, estou cursando o curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Tenho uma grande paixão pela tecnologia, pois acredito que ela oferece soluções inovadoras e abre possibilidades que muitas vezes parecem além do alcance.
