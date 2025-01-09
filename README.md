@@ -1,4 +1,4 @@
-# 👩‍💻 Sarah Silva 
+# 👩‍💻 Sarah silva 
 **`Desenvolvedorora Bank end | Front End`**
 
 Meu nome é Sarah Silva Gabriel, tenho 19 anos e sou natural de Brasília - DF. Atualmente, estou cursando o curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Tenho uma grande paixão pela tecnologia, pois acredito que ela oferece soluções inovadoras e abre possibilidades que muitas vezes parecem além do alcance.
@@ -60,6 +60,12 @@ Meu nome é Sarah Silva Gabriel, tenho 19 anos e sou natural de Brasília - DF. 
     src="https://github-readme-stats.vercel.app/api?username=sah524&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sah524&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
 
