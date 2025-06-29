@@ -3,7 +3,7 @@
 
 Meu nome é Sarah Silva Gabriel, tenho 19 anos e sou natural de Brasília - DF. Atualmente, estou cursando o curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Tenho uma grande paixão pela tecnologia, pois acredito que ela oferece soluções inovadoras e abre possibilidades que muitas vezes parecem além do alcance.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarahsilva2206?igsh=OGZncHd1ZDBrMm5y)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.sarahsilvah?igsh=enFneWRlbHNxOWg1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100020145394820)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5562994098461)
