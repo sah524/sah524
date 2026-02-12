@@ -30,22 +30,24 @@ Tenho uma grande paixão pela tecnologia, pois acredito que ela oferece soluçõ
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sah524&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sah524&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img 
+        height="180em" 
+        src="https://github-readme-stats-dxyd.vercel.app/api?username=sah524&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td align="center">
+      <img 
+        height="180em" 
+        src="https://github-readme-stats-dxyd.vercel.app/api/top-langs/?username=sah524&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
 
-
----
-
-## Sequência de Contribuições
+## 🔥 Sequência de Contribuições
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sah524&theme=tokyonight&locale=pt-br" />
